@@ -1,0 +1,5 @@
+pymongo==4.19.0
+bcrypt==5.0.0
+faker==40.43.0
+python-dotenv==1.2.4
+customtkinter==6.0.0
